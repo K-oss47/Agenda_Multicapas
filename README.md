@@ -64,11 +64,8 @@ fetch("http://www.raydelto.org/agenda.php", {
 ```
 Agenda_Multicapas/
 ├── agenda.html
-├── README.md
-└── capturas/
-    ├── lista.png
-    ├── formulario.png
-    └── agregado.png
+└── README.md
+    
 ```
 
 ## Autor
